@@ -1,0 +1,22 @@
+values with prediction < 10
+       order_estimated_driving_time_min  order_estimated_shopping_time_min
+count                        741.000000                         741.000000
+mean                           3.908232                          20.109312
+std                            1.528009                           8.475094
+min                            0.000000                           2.000000
+25%                            3.000000                          15.000000
+50%                            4.000000                          20.000000
+75%                            5.000000                          25.000000
+max                            8.000000                          50.000000
+
+all values
+
+       order_estimated_driving_time_min  order_estimated_shopping_time_min
+count                      13690.000000                       13690.000000
+mean                           8.017604                          49.289554
+std                            4.777654                          28.599831
+min                            0.000000                           2.000000
+25%                            5.000000                          28.000000
+50%                            7.000000                          43.000000
+75%                           10.000000                          65.000000
+max                           60.000000                         147.000000
